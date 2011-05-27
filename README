@@ -1,0 +1,8 @@
+NewsRank ranks articles (or any object) based on a set of metrics.
+
+Each metric has an associated weight which are initialised in newsRank.m. 
+The metric weights are learnt over time - articles clicked are assumed to have desired  metrics.
+
+newsRank() will return you an article set. Use the update... functions to add articles, change metrics and simulate selecting an article.
+
+Copyright 2011 Max Jaderberg

@@ -5,4 +5,6 @@ The metric weights are learnt over time - articles clicked are assumed to have d
 
 newsRank() will return you an article set. Use the update... functions to add articles, change metrics and simulate selecting an article.
 
+TODO: Implement in Python.
+
 Copyright 2011 Max Jaderberg
